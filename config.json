@@ -1,0 +1,4 @@
+{
+    "metapackages": ["ubuntu-standard", "ubuntu-minimal", "linux-base"],
+    "default_target_directory": "(you can specify it here but remember to first create it"
+}
